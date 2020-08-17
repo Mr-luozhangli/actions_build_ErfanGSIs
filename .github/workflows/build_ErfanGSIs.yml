@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dl3.smartisan.com/ota/mol.ocean-rom-7.0.0-SEKSA.ocean-user/202003151350/7.0.0-202003151203-user-oce-30ac5dc3a3.zip
+  ROM_NAME: sos7.0
   TZ: Asia/Shanghai
 
 jobs:

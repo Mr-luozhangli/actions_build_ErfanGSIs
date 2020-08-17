@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dl3.smartisan.com/ota/mol.ocean-rom-7.0.0-SEKSA.ocean-user/202003151350/7.0.0-202003151203-user-oce-30ac5dc3a3.zip
-  ROM_NAME: sos7.0
+  ROM_NAME: ZenUI
   TZ: Asia/Shanghai
 
 jobs:
